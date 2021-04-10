@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathewqpmiller
 - 👀 I’m interested in new recipies from restaraunts that I can make at home.
-- 🌱 I’m currently learned JavaScript and MongoDB.
+- 🌱 I recently learned JavaScript and MongoDB.
 - 💞️ I'd like to collaborate on projects related to finance analysis.
 - 📫 How to reach me ...
 
