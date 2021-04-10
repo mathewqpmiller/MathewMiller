@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mathewqpmiller
+- 👋 Hi, I’m Mathew
 - 👀 I’m interested in new recipies from restaraunts that I can make at home.
 - 🌱 I recently learned JavaScript and MongoDB.
 - 💞️ I'd like to collaborate on projects related to finance analysis.
 - 📫 How to reach me ...
+- mathewpqmiller@gmail.com
 
 <!---
 mathewqpmiller/mathewqpmiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
